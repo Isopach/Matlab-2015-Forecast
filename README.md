@@ -1,2 +1,2 @@
-# Matlab-2015-Forecast
+# Matlab-Economics-Forecast
 Personal project for forecasting various data
